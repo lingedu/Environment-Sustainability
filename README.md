@@ -10,3 +10,4 @@ I participate the competition due to my interest in both environment issues and 
 * dataExplore.ipynb - Explore the data.
 * solution.ipynb - Use machine learning skills to find the new balance between carbons reduction and quality of life.
 # wellsFargo
+![Environment Sustainability](img/green.png)
