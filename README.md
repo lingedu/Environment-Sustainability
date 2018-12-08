@@ -1,6 +1,6 @@
 # Well Fargo competition
 ## Campus Analytics Challenge: Live Green and Live Happy
-![Environment Sustainability](img/CO2.png)
+![Environment Sustainability](img/APPS.png)
 
 Promoting environmental sustainability is one of priorities of Wells Fargo. We want to make a low-carbon 
 economy society and we need to adjust individual's actions to reduce the carbon produced. This competition encourage students in campus using machine learning skills to help find the new balance between carbon footprint and quality of life. We want to encourage individuals adjust their actions and reduce the carcon footprint without losing quality of life.
