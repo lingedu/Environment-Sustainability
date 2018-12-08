@@ -1,5 +1,5 @@
 # Wells Fargo competition
-## [Campus Analytics Challenge: Live Green and Live Happy](https://www.mindsumo.com/contests/campus-analytics-challenge-2018?&utm_campaign=send_drip_email&utm_source=mindsumo&utm_medium=email)
+## [Campus Analytics Challenge: Live Green and Live Happy]
 
 ![alt](img/APPS.png)
 Credit:[Wells Fargo](https://www.mindsumo.com/contests/campus-analytics-challenge-2018?&utm_campaign=send_drip_email&utm_source=mindsumo&utm_medium=email)
